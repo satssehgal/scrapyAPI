@@ -1,0 +1,233 @@
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (404) <GET http://books.toscrape.com/robots.txt> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-1.html> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'A Light in the Attic', 'Price': '£51.77', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Tipping the Velvet', 'Price': '£53.74', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Soumission', 'Price': '£50.10', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Sharp Objects', 'Price': '£47.82', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Sapiens: A Brief History of Humankind', 'Price': '£54.23', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'The Requiem Red', 'Price': '£22.65', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'The Dirty Little Secrets of Getting Your Dream Job', 'Price': '£33.34', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'The Coming Woman: A Novel Based on the Life of the Infamous Feminist, Victoria Woodhull', 'Price': '£17.93', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics', 'Price': '£22.60', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'The Black Maria', 'Price': '£52.15', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Starving Hearts (Triangular Trade Trilogy, #1)', 'Price': '£13.99', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': "Shakespeare's Sonnets", 'Price': '£20.66', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Set Me Free', 'Price': '£17.46', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': "Scott Pilgrim's Precious Little Life (Scott Pilgrim #1)", 'Price': '£52.29', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Rip it Up and Start Again', 'Price': '£35.02', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991', 'Price': '£57.25', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Olio', 'Price': '£23.88', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Mesaerion: The Best Science Fiction Stories 1800-1849', 'Price': '£37.59', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': 'Libertarianism for Beginners', 'Price': '£51.33', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-1.html>
+{'Title': "It's Only the Himalayas", 'Price': '£45.17', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-4.html> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-5.html> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-3.html> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Crawled (200) <GET http://books.toscrape.com/catalogue/page-2.html> (referer: None)
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Nameless City (The Nameless City #1)', 'Price': '£38.16', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Murder That Never Was (Forensic Instincts #5)', 'Price': '£54.11', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': "The Most Perfect Thing: Inside (and Outside) a Bird's Egg", 'Price': '£42.96', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Mindfulness and Acceptance Workbook for Anxiety: A Guide to Breaking Free from Anxiety, Phobias, and Worry Using Acceptance and Commitment Therapy', 'Price': '£23.89', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing', 'Price': '£16.77', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Princess Jellyfish 2-in-1 Omnibus, Vol. 01 (Princess Jellyfish 2-in-1 Omnibus #1)', 'Price': '£13.61', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Princess Between Worlds (Wide-Awake Princess #5)', 'Price': '£13.34', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Pop Gun War, Volume 1: Gift', 'Price': '£18.97', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Political Suicide: Missteps, Peccadilloes, Bad Calls, Backroom Hijinx, Sordid Pasts, Rotten Breaks, and Just Plain Dumb Mistakes in the Annals of American Politics', 'Price': '£36.28', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Patience', 'Price': '£10.16', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Outcast, Vol. 1: A Darkness Surrounds Him (Outcast #1)', 'Price': '£15.44', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'orange: The Complete Collection 1 (orange: The Complete Collection #1)', 'Price': '£48.41', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Online Marketing for Busy Authors: A Step-By-Step Guide', 'Price': '£46.35', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'On a Midnight Clear', 'Price': '£14.07', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Inefficiency Assassin: Time Management Tactics for Working Smarter, Not Longer', 'Price': '£20.59', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Gutsy Girl: Escapades for Your Life of Epic Adventure', 'Price': '£37.13', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Electric Pencil: Drawings from Inside State Hospital No. 3', 'Price': '£56.06', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Death of Humanity: and the Case for Life', 'Price': '£58.11', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Bulletproof Diet: Lose up to a Pound a Day, Reclaim Energy and Focus, Upgrade Your Life', 'Price': '£49.05', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Art Forger', 'Price': '£40.76', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'The Age of Genius: The Seventeenth Century and the Birth of the Modern Mind', 'Price': '£19.73', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': "The Activist's Tao Te Ching: Ancient Advice for a Modern Revolution", 'Price': '£32.24', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Spark Joy: An Illustrated Master Class on the Art of Organizing and Tidying Up', 'Price': '£41.83', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Soul Reader', 'Price': '£39.58', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Security', 'Price': '£39.25', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Saga, Volume 6 (Saga (Collected Editions) #6)', 'Price': '£25.02', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Saga, Volume 5 (Saga (Collected Editions) #5)', 'Price': '£51.04', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Reskilling America: Learning to Labor in the Twenty-First Century', 'Price': '£19.83', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-4.html>
+{'Title': 'Rat Queens, Vol. 3: Demons (Rat Queens (Collected Editions) #11-15)', 'Price': '£50.40', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Slow States of Collapse: Poems', 'Price': '£57.31', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Reasons to Stay Alive', 'Price': '£26.41', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Private Paris (Private #10)', 'Price': '£47.61', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': '#HigherSelfie: Wake Up Your Life. Free Your Soul. Find Your Tribe.', 'Price': '£23.11', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Without Borders (Wanderlove #1)', 'Price': '£45.07', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'When We Collided', 'Price': '£31.77', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'We Love You, Charlie Freeman', 'Price': '£50.27', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Untitled Collection: Sabbath Poems 2014', 'Price': '£14.27', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Unseen City: The Majesty of Pigeons, the Discreet Charm of Snails & Other Wonders of the Urban Wilderness', 'Price': '£44.18', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Unicorn Tracks', 'Price': '£18.78', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Unbound: How Eight Technologies Made Us Human, Transformed Society, and Brought Our World to the Brink', 'Price': '£25.52', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Obsidian (Lux #1)', 'Price': '£14.86', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'My Paris Kitchen: Recipes and Stories', 'Price': '£33.37', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Masks and Shadows', 'Price': '£56.40', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Mama Tried: Traditional Italian Cooking for the Screwed, Crude, Vegan, and Tattooed', 'Price': '£14.02', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Lumberjanes, Vol. 2: Friendship to the Max (Lumberjanes #5-8)', 'Price': '£46.91', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Lumberjanes, Vol. 1: Beware the Kitten Holy (Lumberjanes #1-4)', 'Price': '£45.61', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Lumberjanes Vol. 3: A Terrible Plan (Lumberjanes #9-12)', 'Price': '£19.92', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Layered: Baking, Building, and Styling Spectacular Cakes', 'Price': '£40.11', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Judo: Seven Steps to Black Belt (an Introductory Guide for Beginners)', 'Price': '£53.90', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'Join', 'Price': '£35.67', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-5.html>
+{'Title': 'In the Country We Love: My Family Divided', 'Price': '£22.00', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'In Her Wake', 'Price': '£12.84', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'How Music Works', 'Price': '£37.32', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Foolproof Preserving: A Guide to Small Batch Jams, Jellies, Pickles, Condiments, and More: A Foolproof Guide to Making Small Batch Jams, Jellies, Pickles, Condiments, and More', 'Price': '£30.52', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Chase Me (Paris Nights #2)', 'Price': '£25.27', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Black Dust', 'Price': '£34.53', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Birdsong: A Story in Pictures', 'Price': '£54.64', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': "America's Cradle of Quarterbacks: Western Pennsylvania's Football Factory from Johnny Unitas to Joe Montana", 'Price': '£22.50', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Aladdin and His Wonderful Lamp', 'Price': '£53.13', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Worlds Elsewhere: Journeys Around Shakespeare’s Globe', 'Price': '£40.30', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Wall and Piece', 'Price': '£44.18', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'The Four Agreements: A Practical Guide to Personal Freedom', 'Price': '£17.66', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Tsubasa: WoRLD CHRoNiCLE 2 (Tsubasa WoRLD CHRoNiCLE #2)', 'Price': '£16.28', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Throwing Rocks at the Google Bus: How Growth Became the Enemy of Prosperity', 'Price': '£31.12', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'This One Summer', 'Price': '£19.49', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'Thirst', 'Price': '£17.27', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'The Torch Is Passed: A Harding Family Story', 'Price': '£19.09', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'The Secret of Dreadwillow Carse', 'Price': '£56.13', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'The Pioneer Woman Cooks: Dinnertime: Comfort Classics, Freezer Food, 16-Minute Meals, and Other Delicious Ways to Solve Supper!', 'Price': '£56.41', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'The Past Never Ends', 'Price': '£56.50', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-3.html>
+{'Title': 'The Natural History of Us (The Fine Art of Pretending #2)', 'Price': '£45.22', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'The Five Love Languages: How to Express Heartfelt Commitment to Your Mate', 'Price': '£31.05', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'The Elephant Tree', 'Price': '£23.82', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'The Bear and the Piano', 'Price': '£36.89', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': "Sophie's World", 'Price': '£15.94', 'Stock': 'In stock', 'Star': 5}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Penny Maybe', 'Price': '£33.29', 'Stock': 'In stock', 'Star': 3}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Maude (1883-1993):She Grew Up with the country', 'Price': '£18.02', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'In a Dark, Dark Wood', 'Price': '£19.63', 'Stock': 'In stock', 'Star': 1}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': 'Behind Closed Doors', 'Price': '£52.22', 'Stock': 'In stock', 'Star': 4}
+2019-10-07 12:05:39 [scrapy] DEBUG: Scraped from <200 http://books.toscrape.com/catalogue/page-2.html>
+{'Title': "You can't bury them all: Poems", 'Price': '£33.63', 'Stock': 'In stock', 'Star': 2}
+2019-10-07 12:05:39 [scrapy] INFO: Closing spider (finished)
+2019-10-07 12:05:39 [scrapy] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 1417,
+ 'downloader/request_count': 6,
+ 'downloader/request_method_count/GET': 6,
+ 'downloader/response_bytes': 30985,
+ 'downloader/response_count': 6,
+ 'downloader/response_status_count/200': 5,
+ 'downloader/response_status_count/404': 1,
+ 'elapsed_time_seconds': 0.722261,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 10, 7, 16, 5, 39, 632487),
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 106,
+ 'log_count/INFO': 7,
+ 'memusage/max': 96075776,
+ 'memusage/startup': 96075776,
+ 'response_received_count': 6,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/404': 1,
+ 'scheduler/dequeued': 5,
+ 'scheduler/dequeued/memory': 5,
+ 'scheduler/enqueued': 5,
+ 'scheduler/enqueued/memory': 5,
+ 'start_time': datetime.datetime(2019, 10, 7, 16, 5, 38, 910226)}
+2019-10-07 12:05:39 [scrapy] INFO: Spider closed (finished)

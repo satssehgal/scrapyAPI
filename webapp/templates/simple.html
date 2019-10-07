@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    {% block head %}
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.css">
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.js"></script>
+
+    <title>{% block title %}{% endblock %} Scraped Data</title>
+    {% endblock %}
+</head>
+<body>
+	<h1>Scraped Data</h1>
+	<div class=page>
+		{% for table in tables %}
+    		{{ table|safe }}
+  		{% endfor %}
+	</div>
+</body>
+</html>
